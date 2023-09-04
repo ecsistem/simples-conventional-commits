@@ -1,8 +1,8 @@
 {
   "name": "simples-conventional-commits",
-  "displayName": "Conventional Commit Helper",
+  "displayName": "Conventional Commit Simples",
   "description": "Uma extensão que facilita a criação de commits convencionais no Visual Studio Code.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -17,12 +17,13 @@
       {
         "command": "extension.createConventionalCommit",
         "title": "Criar Commit Convencional",
-        "category": "Conventional Commit Helper"
+        "category": "Conventional Commit Simples"
       }
     ],
     "menus": {
       "scm/title": [
         {
+          "title": "Criar Commit",
           "command": "extension.createConventionalCommit",
           "group": "navigation",
           "when": "scmProvider == git"
@@ -61,11 +62,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seu-usuario/seu-repositorio.git"
+    "url": "https://github.com/ecsistem/simples-conventional-commits"
   },
-  "author": "Seu Nome",
+  "author": "Edson Costa",
   "license": "MIT",
-  "homepage": "https://github.com/seu-usuario/seu-repositorio",
+  "homepage": "https://github.com/ecsistem/simples-conventional-commits",
   "keywords": [
     "vscode",
     "extension",
