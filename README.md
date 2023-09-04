@@ -43,4 +43,4 @@ para obter detalhes.
 
 **Aproveite a extensão!** Se você encontrar algum problema ou tiver sugestões de melhoria, não hesite em entrar em contato.
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-nome-de-usuario)
+Feito com ❤️ por [Edson Costa](https://github.com/seu-nome-de-usuario)
