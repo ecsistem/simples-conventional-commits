@@ -1,46 +1,55 @@
-# Extensão Conventional Commits para Visual Studio Code
+# Conventional Commits Extension for Visual Studio Code
 
-![Versão da Extensão](https://img.shields.io/visual-studio-marketplace/v/seu-id-de-extensao)
-![Downloads da Extensão](https://img.shields.io/visual-studio-marketplace/d/seu-id-de-extensao)
-![Avaliações da Extensão](https://img.shields.io/visual-studio-marketplace/r/seu-id-de-extensao)
-![Licença](https://img.shields.io/github/license/seu-nome-de-usuario/seu-repositorio)
+![Version](https://img.shields.io/visual-studio-marketplace/v/SimplesConventionalCommits.simples-conventional-commits)
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/SimplesConventionalCommits.simples-conventional-commits)
+![Rating](https://img.shields.io/visual-studio-marketplace/r/SimplesConventionalCommits.simples-conventional-commits)
 
-## Descrição
+## Description
 
-A extensão Conventional Commits para Visual Studio Code ajuda os desenvolvedores a criar mensagens de commit seguindo o formato [Conventional Commits](https://www.conventionalcommits.org/). Esse formato de mensagem de commit é amplamente utilizado na comunidade de desenvolvimento de software para padronizar as mensagens de commit, facilitando o entendimento das alterações no código.
+The Conventional Commits Extension for Visual Studio Code is a valuable tool for developers who want to maintain high-quality commit messages following the [Conventional Commits](https://www.conventionalcommits.org/) format. This format is widely adopted in the software development community to standardize commit messages, making it easier to understand code changes.
 
-## Recursos
+## Key Features
 
-- Crie mensagens de commit no formato Conventional Commits.
-- Fornece sugestões automáticas para tipos de commit, escopo e mensagem.
-- Integração perfeita com o fluxo de trabalho de desenvolvimento.
+- Easily create commit messages in the Conventional Commits format.
+- Provides automatic suggestions for commit types, scopes, and messages.
+- Seamless integration with your development workflow.
 
-## Instalação
+## Installation
 
-1. Vá para a [página da extensão no Visual Studio Marketplace](https://marketplace.visualstudio.com/items/seu-id-de-extensao).
-2. Clique no botão "Instalar".
-3. Reinicie o Visual Studio Code para ativar a extensão.
+1. Visit the [extension page on the Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/SimplesConventionalCommits).
+2. Click the "Install" button.
+3. Restart Visual Studio Code to activate the extension.
 
-## Uso
+## Usage
 
-1. Abra seu projeto no Visual Studio Code.
-2. Abra o painel de controle de controle de versão (Source Control).
-3. Selecione as alterações que deseja commitar.
-4. Use o comando de commit fornecido pela extensão.
-5. Siga as sugestões para preencher os campos de tipo, escopo e mensagem do commit.
-6. Pressione Enter para confirmar o commit.
+1. **Open Your Project**:
+   - Launch Visual Studio Code and open your project.
 
-## Contribuindo
+2. **Access Source Control**:
+   - Navigate to the Source Control panel within Visual Studio Code.
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+3. **Select Changes**:
+   - Choose the code changes that you want to commit.
 
-## Licença
+4. **Use the Extension**:
+   - Execute the commit command provided by the extension. You can do this by:
 
-Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [License](https://link-para-sua-licenca)
-para obter detalhes.
+   - Using the Visual Studio Code command palette (Ctrl+Shift+P) and searching for "Create Conventional Commit."
+   
+   OR
+
+   - Assigning a custom keybinding to the "Create Conventional Commit" command.
+
+5. **Fill in Commit Details**:
+   - The extension will present you with suggestions for the commit type, scope, and message.
+   - Follow these suggestions to provide meaningful commit information.
+
+6. **Confirm the Commit**:
+   - Press Enter to confirm and execute the commit.
+
 
 ---
 
-**Aproveite a extensão!** Se você encontrar algum problema ou tiver sugestões de melhoria, não hesite em entrar em contato.
+**Enjoy the Extension!** If you encounter any issues or have suggestions for improvement, don't hesitate to reach out.
 
-Feito com ❤️ por [Edson Costa](https://github.com/seu-nome-de-usuario)
+Developed with ❤️ by [Edson Costa](https://github.com/ecsistem)
